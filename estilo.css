@@ -1,0 +1,59 @@
+ body {
+      background-color: #fae8fa; }
+
+
+      h1 {
+        color: #2f3559;
+        text-align: center;
+        font-size: 60px;}
+
+    h2 {
+        color: #2f3559;
+        font-size: 30px;
+        margin: 50px;}
+
+    
+
+        p {
+            font-size: 20px; 
+            text-align: justify;
+            margin: 20px;}
+
+        ul li {
+                margin-bottom: 10px;
+                font-size:18px;}
+
+        img {
+                width: 300px;
+                border-radius: 50px;
+                margin: 50px;}  
+
+        table {
+                border: 1px solid #999;
+                padding: 10px;
+                text-align: center;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 20px ;}
+              
+        a {
+                    color: #0077cc;
+                }
+              
+        a:hover {
+                    color: #e394a7;}
+
+        
+        #meuBotao {
+                      background-color: #e6d8cb; 
+                      color: #2f3559;
+                      padding: 5px 5px;
+                      border: none;
+                      font-size: 15px;
+                      margin: 20px;
+                    }
+                
+                    #meuBotao:hover {
+                      background-color: #f0b47b; }
+            
+
+
